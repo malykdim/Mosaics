@@ -11,25 +11,39 @@
         {
             "id": 23,
             "picture": "../images/art-23-bouquet.jpg"
+        },
+        {
+            "id": 30,
+            "picture": "../images/art-30-nostalgia.jpg"
         }
     ],
     
     "gallery": [
         {
             "id": 9,
+            "picture": "../images/art-9-sun.jpg",
             "caption": "Sun",
             "author": "Vladimir Damyanov"
         },
         {
             "id": 19,
+            "picture": "../images/art-19-butterfly.jpg",
             "caption": "Butterfly",
             "author": "Damyan Damyanov"
         },
         {
             "id": 23,
+            "picture": "../images/art-23-bouquet.jpg",
             "caption": "Bouquet",
             "author": "Vladimir Damyanov"
+        },
+        {
+            "id": 30,
+            "picture": "../images/art-30-nostalgia.jpg",
+            "caption": "Nostalgia",
+            "author": "Konstantin Damyanov"
         }
+        
     ],
     
     "descriptions": [
@@ -56,7 +70,16 @@
             "dimensions": {"width": "50cm", "height": "75cm"},
             "materials": ["agate", "tiger's eye", "labrador", "firestone", "onyx"]
             }
+        },
+        {
+            "id": 30,
+            "description": {
+            "created": "2021", 
+            "dimensions": {"width": "50cm", "height": "75cm"},
+            "materials": ["agate", "tiger's eye", "labrador", "firestone", "onyx"]
+            }
         }
+        
     ],
     
     "cards": [
@@ -87,6 +110,17 @@
             "caption": "Bouquet",
             "author": "Vladimir Damyanov",
             "picture": "../images/art-23-bouquet.jpg",
+            "description": {
+                "created": "2021", 
+                "dimensions": {"width": "75cm", "height": "75cm"},
+                "materials": ["agate", "tiger's eye", "labrador", "firestone", "onyx"]
+            }
+        },
+        {
+            "id": 30,
+            "caption": "Nostalgia",
+            "author": "Konstantin Damyanov",
+            "picture": "../images/art-30-nostalgia.jpg",
             "description": {
                 "created": "2021", 
                 "dimensions": {"width": "75cm", "height": "75cm"},
