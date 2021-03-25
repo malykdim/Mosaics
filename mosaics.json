@@ -1,133 +1,87 @@
 {
-    "pictures": [
-        {
-            "id": 9,
-            "picture": "../images/art-9-sun.jpg"   
-        },
-        {
-            "id": 19,
-            "picture": "../images/art-19-butterfly.jpg"
-        },
-        {
-            "id": 23,
-            "picture": "../images/art-23-bouquet.jpg"
-        },
-        {
-            "id": 30,
-            "picture": "../images/art-30-nostalgia.jpg"
-        }
-    ],
-    
     "gallery": [
         {
             "id": 9,
-            "picture": "../images/art-9-sun.jpg",
-            "caption": "Sun",
-            "author": "Vladimir Damyanov"
-        },
-        {
-            "id": 19,
-            "picture": "../images/art-19-butterfly.jpg",
-            "caption": "Butterfly",
-            "author": "Damyan Damyanov"
-        },
-        {
-            "id": 23,
-            "picture": "../images/art-23-bouquet.jpg",
-            "caption": "Bouquet",
-            "author": "Vladimir Damyanov"
-        },
-        {
-            "id": 30,
-            "picture": "../images/art-30-nostalgia.jpg",
-            "caption": "Nostalgia",
-            "author": "Konstantin Damyanov"
-        }
-        
-    ],
-    
-    "descriptions": [
-        {
-            "id": 9,
-            "description": {
-            "created": "2021", 
-            "dimensions": {"width": "75cm", "height": "75cm"},
-            "materials": ["amethyst", "agate", "jasper", "tiger's eye", "mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
-            }
-        },
-        {
-            "id": 19,
-            "description": {
-            "created": "2021", 
-            "dimensions": {"width": "75cm", "height": "75cm"},
-            "materials": ["labrador", "pyryt", "firestone", "onyx", "marble"]
-            }
-        },
-        {
-            "id": 23,
-            "description": {
-            "created": "2021", 
-            "dimensions": {"width": "50cm", "height": "75cm"},
-            "materials": ["agate", "tiger's eye", "labrador", "firestone", "onyx"]
-            }
-        },
-        {
-            "id": 30,
-            "description": {
-            "created": "2021", 
-            "dimensions": {"width": "50cm", "height": "75cm"},
-            "materials": ["agate", "tiger's eye", "labrador", "firestone", "onyx"]
-            }
-        }
-        
-    ],
-    
-    "cards": [
-        {
-            "id": 9,
+            "picture": "/thestonemagic/images/art-9-sun.jpg",
             "caption": "Sun",
             "author": "Vladimir Damyanov",
-            "picture": "../images/art-9-sun.jpg",
-            "description": {
-                "created": "2021", 
-                "dimensions": {"width": "75cm", "height": "75cm"},
-                "materials": ["amethyst", "agate", "jasper", "tiger's eye", "mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
-            }
+            "url": "/gallery/sun"
         },
         {
             "id": 19,
+            "picture": "/thestonemagic/images/art-19-butterfly.jpg",
             "caption": "Butterfly",
-            "author": "Vladimir Damyanov",
-            "picture": "../images/art-19-butterfly.jpg",
-            "description": {
-                "created": "2021", 
-                "dimensions": {"width": "75cm", "height": "75cm"},
-                "materials": ["labrador", "pyryt", "firestone", "onyx", "marble"]
-            }
+            "author": "Damyan Damyanov",
+            "url": "/gallery/butterfly"
         },
         {
             "id": 23,
+            "picture": "/thestonemagic/images/art-23-bouquet.jpg",
             "caption": "Bouquet",
             "author": "Vladimir Damyanov",
-            "picture": "../images/art-23-bouquet.jpg",
-            "description": {
-                "created": "2021", 
-                "dimensions": {"width": "75cm", "height": "75cm"},
-                "materials": ["agate", "tiger's eye", "labrador", "firestone", "onyx"]
-            }
+            "url": "/gallery/bouqet"
         },
         {
             "id": 30,
+            "picture": "/thestonemagic/images/art-30-nostalgia.jpg",
             "caption": "Nostalgia",
             "author": "Konstantin Damyanov",
-            "picture": "../images/art-30-nostalgia.jpg",
+            "url": "/gallery/nostalgia"
+        }
+        
+    ],
+    
+    "Sun": {
+        "id": 9,
+        "url": "/gallery/sun",
+        "picture": "/thestonemagic/images/art-9-sun.jpg",
+        "caption": "Sun",
+        "author": "Vladimir Damyanov",
+        "description": {
+            "created": "2008", 
+            "dimensions": {"width": "75cm", "height": "75cm"},
+            "materials": ["amethyst", "agate", "jasper", "tiger's eye", "mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
+        }
+    },
+    
+    "Butterfly": {
+        "id": 19,
+        "url": "/gallery/butterfly",
+        "picture": "/thestonemagic/images/art-19-butterfly.jpg",
+        "caption": "Butterfly",
+        "author": "Vladimir Damyanov",
+        "description": {
+            "created": "2011", 
+            "dimensions": {"width": "75cm", "height": "75cm"},
+            "materials": ["labrador", "pyryt", "firestone", "onyx", "marble"]
+        }
+    },
+    
+    "Bouquet": {
+        "id": 23,
+        "url": "/gallery/bouquet",
+        "picture": "/thestonemagic/images/art-23-bouquet.jpg",
+        "caption": "Bouquet",
+        "author": "Vladimir Damyanov",
+        "description": {
+            "created": "2013", 
+            "dimensions": {"width": "75cm", "height": "75cm"},
+            "materials": ["agate", "tiger's eye", "labrador", "firestone", "onyx"]
+        }
+    },
+    
+    "nostalgia": {
+            "id": 30,
+            "url": "/gallery/nostalgia",
+            "picture": "/thestonemagic/images/art-30-nostalgia.jpg",
+            "caption": "Nostalgia",
+            "author": "Konstantin Damyanov",
             "description": {
-                "created": "2021", 
+                "created": "2020", 
                 "dimensions": {"width": "75cm", "height": "75cm"},
                 "materials": ["agate", "tiger's eye", "labrador", "firestone", "onyx"]
             }
-        }
-    ]
+    }
 }
 
 
