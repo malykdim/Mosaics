@@ -2,19 +2,29 @@
     "gallery": [
         {
             "id": 9,
-            "gridClass": "Card w-1 h-1",
+            "url": "/gallery/sun",
             "picture": "/thestonemagic/images/art-9-sun.jpg",
             "caption": "Sun",
             "author": "Vladimir Damyanov",
-            "url": "/gallery/sun"
+            "description": {
+                "created": "2008", 
+                "dimensions": {"width": "75cm", "height": "75cm"},
+                "materials": ["amethyst", "agate", "jasper", "tiger's eye", "mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
+            },
+            "gridClass": "Card w-1 h-1"
         },
         {
             "id": 13,
-            "gridClass": "Card w-2 h-2",
+            "url": "/gallery/dragon",
             "picture": "/thestonemagic/images/art-13-dragon.jpg",
             "caption": "Dragon",
             "author": "Vladimir Damyanov",
-            "url": "/gallery/dragon"
+            "description": {
+                "created": "2016", 
+                "dimensions": {"width": "75cm", "height": "75cm"},
+                "materials": ["amethyst", "mountain crystal", "pyryt", "firestone", "onyx", "marble"]
+            },
+            "gridClass": "Card w-2 h-2"
         },
         {
             "id": 25,
@@ -114,9 +124,9 @@
         }
     ],
     
-    "Delight": {
+    "delight": {
         "id": 5,
-        "url": "/gallery/delight",
+        "url": "/delight",
         "picture": "/thestonemagic/images/art-5-delight.jpg",
         "caption": "Delight",
         "author": "Vladimir Damyanov",
@@ -127,9 +137,9 @@
         }
     },
     
-    "Sun": {
+    "sun": {
         "id": 9,
-        "url": "/gallery/sun",
+        "url": "/sun",
         "picture": "/thestonemagic/images/art-9-sun.jpg",
         "caption": "Sun",
         "author": "Vladimir Damyanov",
@@ -140,9 +150,9 @@
         }
     },
     
-    "Dragon": {
+    "dragon": {
         "id": 13,
-        "url": "/gallery/dragon",
+        "url": "/dragon",
         "picture": "/thestonemagic/images/art-13-dragon.jpg",
         "caption": "Dragon",
         "author": "Vladimir Damyanov",
@@ -153,9 +163,9 @@
         }
     },
     
-    "Galaxy": {
+    "galaxy": {
         "id": 14,
-        "url": "/gallery/galaxy",
+        "url": "/galaxy",
         "picture": "/thestonemagic/images/art-14-galaxy.jpg",
         "caption": "Galaxy",
         "author": "Vladimir Damyanov",
@@ -166,9 +176,9 @@
         }
     },
     
-    "Butterfly": {
+    "butterfly": {
         "id": 19,
-        "url": "/gallery/butterfly",
+        "url": "/butterfly",
         "picture": "/thestonemagic/images/art-19-butterfly.jpg",
         "caption": "Butterfly",
         "author": "Vladimir Damyanov",
@@ -179,9 +189,9 @@
         }
     },
     
-    "Cactus": {
+    "cactus": {
         "id": 22,
-        "url": "/gallery/cactus",
+        "url": "/cactus",
         "picture": "/thestonemagic/images/art-22-cactus.jpg",
         "caption": "Cactus",
         "author": "Vladimir Damyanov",
@@ -192,9 +202,9 @@
         }
     },
     
-    "Bouquet": {
+    "bouquet": {
         "id": 23,
-        "url": "/gallery/bouquet",
+        "url": "/bouquet",
         "picture": "/thestonemagic/images/art-23-bouquet.jpg",
         "caption": "Bouquet",
         "author": "Vladimir Damyanov",
@@ -205,9 +215,9 @@
         }
     },
     
-    "Fiancee": {
+    "fiancee": {
         "id": 25,
-        "url": "/gallery/fiancee",
+        "url": "/fiancee",
         "picture": "/thestonemagic/images/art-25-fiancee.jpg",
         "caption": "Fiancee",
         "author": "Damyan Damyanov",
@@ -218,9 +228,9 @@
         }
     },
     
-    "Music": {
+    "music": {
             "id": 26,
-            "url": "/gallery/music",
+            "url": "/music",
             "picture": "/thestonemagic/images/art-26-music.jpg",
             "caption": "Music",
             "author": "Damyan Damyanov",
@@ -231,9 +241,9 @@
             }
     },
     
-    "Sailing": {
+    "sailing": {
         "id": 27,
-        "url": "/gallery/sailing",
+        "url": "/sailing",
         "picture": "/thestonemagic/images/art-27-sailing.jpg",
         "caption": "Sailing",
         "author": "Damyan Damyanov",
@@ -244,9 +254,9 @@
         }
     },
     
-    "Unity": {
+    "unity": {
         "id": 30,
-        "url": "/gallery/unity",
+        "url": "/unity",
         "picture": "/thestonemagic/images/art-30-unity.jpg",
         "caption": "Unity",
         "author": "Vladimir Damyanov",
@@ -257,9 +267,9 @@
         }
     },
     
-    "Tear": {
+    "tear": {
         "id": 31,
-        "url": "/gallery/tear",
+        "url": "/tear",
         "picture": "/thestonemagic/images/art-31-tear.jpg",
         "caption": "Tear",
         "author": "Damyan Damyanov",
@@ -270,9 +280,9 @@
         }
     },
     
-    "Ocean": {
+    "ocean": {
         "id": 32,
-        "url": "/gallery/ocean",
+        "url": "/ocean",
         "picture": "/thestonemagic/images/art-32-ocean.jpg",
         "caption": "Ocean",
         "author": "Damyan Damyanov",
@@ -283,9 +293,9 @@
         }
     },
     
-    "Prometheus": {
+    "prometheus": {
         "id": 33,
-        "url": "/gallery/prometheus",
+        "url": "/prometheus",
         "picture": "/thestonemagic/images/art-33-prometheus.jpg",
         "caption": "Prometheus",
         "author": "Damyan Damyanov",
