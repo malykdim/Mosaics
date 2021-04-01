@@ -4,307 +4,238 @@
             "id": 9,
             "url": "/gallery/sun",
             "picture": "/thestonemagic/images/art-9-sun.jpg",
+            "gridClass": "Card w-1 h-1",
             "caption": "Sun",
             "author": "Vladimir Damyanov",
+            "created": "2008",
+            "width": "75cm", 
+            "height": "75cm",
+            "materials": "amethyst, agate, jasper, tiger's eye, mountain crystal, labrador, pyryt, firestone, onyx, marble",
             "description": {
                 "created": "2008", 
                 "dimensions": {"width": "75cm", "height": "75cm"},
-                "materials": ["amethyst", "agate", "jasper", "tiger's eye", "mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
-            },
-            "gridClass": "Card w-1 h-1"
+                "materials": ["amethyst", "agate", "jasper", "tiger's eye", "mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]                                
+            }
         },
         {
             "id": 13,
             "url": "/gallery/dragon",
             "picture": "/thestonemagic/images/art-13-dragon.jpg",
+            "gridClass": "Card w-2 h-2",
             "caption": "Dragon",
             "author": "Vladimir Damyanov",
+            "created": "2016",
+            "width": "75cm", 
+            "height": "75cm",
+            "materials": "amethyst, mountain crystal, pyryt, firestone, onyx, marble",
             "description": {
                 "created": "2016", 
                 "dimensions": {"width": "75cm", "height": "75cm"},
-                "materials": ["amethyst", "mountain crystal", "pyryt", "firestone", "onyx", "marble"]
-            },
-            "gridClass": "Card w-2 h-2"
+                "materials": ["amethyst", "mountain crystal", "pyryt", "firestone", "onyx", "marble"]                                
+            }
         },
         {
             "id": 25,
-            "gridClass": "Card w-1 h-1",
+            "url": "/gallery/fiancee",
             "picture": "/thestonemagic/images/art-25-fiancee.jpg",
+            "gridClass": "Card w-1 h-1",
             "caption": "Fiancee",
             "author": "Damyan Damyanov",
-            "url": "/gallery/fiancee"
+            "created": "2008",
+            "width": "75cm", 
+            "height": "75cm",
+            "materials": "amethyst, agate, jasper, tiger's eye, mountain crystal, labrador, pyryt, firestone, onyx, marble",
+            "description": {
+                "created": "2008", 
+                "dimensions": {"width": "75cm", "height": "75cm"},
+                "materials": ["amethyst", "agate", "jasper", "tiger's eye", "mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
+            }
         },
         {
             "id": 26,
+            "url": "/gallery/music",
+            "picture": "/thestonemagic/images/art-26-music.jpg",
             "gridClass": "Card w-2 h-3",
-            "picture": "/thestonemagic/images/art-26-music.jpg",
             "caption": "Music",
             "author": "Damyan Damyanov",
-            "url": "/gallery/music"
-        },
-        {
-            "id": 22,
-            "gridClass": "Card w-1 h-1",
-            "picture": "/thestonemagic/images/art-22-cactus.jpg",
-            "caption": "Cactus",
-            "author": "Vladimir Damyanov",
-            "url": "/gallery/cactus"
-        },
-        {
-            "id": 30,
-            "gridClass": "Card w-1 h-3",
-            "picture": "/thestonemagic/images/art-30-unity.jpg",
-            "caption": "Unity",
-            "author": "Vladimir Damyanov",
-            "url": "/gallery/unity"
-        },
-        {
-            "id": 14,
-            "gridClass": "Card w-2 h-1",
-            "picture": "/thestonemagic/images/art-14-galaxy.jpg",
-            "caption": "Galaxy",
-            "author": "Vladimir Damyanov",
-            "url": "/gallery/galaxy"
-        },
-        {
-            "id": 19,
-            "gridClass": "Card w-1 h-1",
-            "picture": "/thestonemagic/images/art-19-butterfly.jpg",
-            "caption": "Butterfly",
-            "author": "Damyan Damyanov",
-            "url": "/gallery/butterfly"
-        },
-        {
-            "id": 27,
-            "gridClass": "Card w-1 h-2",
-            "picture": "/thestonemagic/images/art-27-sailing.jpg",
-            "caption": "Sailing",
-            "author": "Damyan Damyanov",
-            "url": "/gallery/sailing"
-        },
-        {
-            "id": 5,
-            "gridClass": "Card w-1 h-1",
-            "picture": "/thestonemagic/images/art-5-delight.jpg",
-            "caption": "Delight",
-            "author": "Vladimir Damyanov",
-            "url": "/gallery/delight"
-        },
-        {
-            "id": 31,
-            "gridClass": "Card w-1 h-2",
-            "picture": "/thestonemagic/images/art-31-tear.jpg",
-            "caption": "Tear",
-            "author": "Damyan Damyanov",
-            "url": "/gallery/tear"
-        },
-        {
-            "id": 23,
-            "gridClass": "Card w-2 h-2",
-            "picture": "/thestonemagic/images/art-23-bouquet.jpg",
-            "caption": "Bouquet",
-            "author": "Damyan Damyanov",
-            "url": "/gallery/bouqet"
-        },
-        {
-            "id": 32,
-            "gridClass": "Card w-1 h-1",
-            "picture": "/thestonemagic/images/art-32-ocean.jpg",
-            "caption": "Ocean",
-            "author": "Damyan Damyanov",
-            "url": "/gallery/ocean"
-        },
-        {
-            "id": 33,
-            "gridClass": "Card w-1 h-1",
-            "picture": "/thestonemagic/images/art-33-prometheus.jpg",
-            "caption": "Prometheus",
-            "author": "Damyan Damyanov",
-            "url": "/gallery/prometheus"
-        }
-    ],
-    
-    "delight": {
-        "id": 5,
-        "url": "/delight",
-        "picture": "/thestonemagic/images/art-5-delight.jpg",
-        "caption": "Delight",
-        "author": "Vladimir Damyanov",
-        "description": {
-            "created": "1986", 
-            "dimensions": {"width": "75cm", "height": "75cm"},
-            "materials": ["amethyst", "agate", "jasper", "tiger's eye", "mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
-        }
-    },
-    
-    "sun": {
-        "id": 9,
-        "url": "/sun",
-        "picture": "/thestonemagic/images/art-9-sun.jpg",
-        "caption": "Sun",
-        "author": "Vladimir Damyanov",
-        "description": {
-            "created": "2008", 
-            "dimensions": {"width": "75cm", "height": "75cm"},
-            "materials": ["amethyst", "agate", "jasper", "tiger's eye", "mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
-        }
-    },
-    
-    "dragon": {
-        "id": 13,
-        "url": "/dragon",
-        "picture": "/thestonemagic/images/art-13-dragon.jpg",
-        "caption": "Dragon",
-        "author": "Vladimir Damyanov",
-        "description": {
-            "created": "2016", 
-            "dimensions": {"width": "75cm", "height": "75cm"},
-            "materials": ["amethyst", "mountain crystal", "pyryt", "firestone", "onyx", "marble"]
-        }
-    },
-    
-    "galaxy": {
-        "id": 14,
-        "url": "/galaxy",
-        "picture": "/thestonemagic/images/art-14-galaxy.jpg",
-        "caption": "Galaxy",
-        "author": "Vladimir Damyanov",
-        "description": {
-            "created": "2003", 
-            "dimensions": {"width": "50cm", "height": "75cm"},
-            "materials": ["agate", "jasper", "tiger's eye", "mountain crystal", "pyryt", "marble"]
-        }
-    },
-    
-    "butterfly": {
-        "id": 19,
-        "url": "/butterfly",
-        "picture": "/thestonemagic/images/art-19-butterfly.jpg",
-        "caption": "Butterfly",
-        "author": "Vladimir Damyanov",
-        "description": {
-            "created": "2011", 
-            "dimensions": {"width": "75cm", "height": "75cm"},
-            "materials": ["labrador", "pyryt", "firestone", "onyx", "marble"]
-        }
-    },
-    
-    "cactus": {
-        "id": 22,
-        "url": "/cactus",
-        "picture": "/thestonemagic/images/art-22-cactus.jpg",
-        "caption": "Cactus",
-        "author": "Vladimir Damyanov",
-        "description": {
-            "created": "2013", 
-            "dimensions": {"width": "75cm", "height": "75cm"},
-            "materials": ["agate", "tiger's eye", "labrador", "firestone", "onyx"]
-        }
-    },
-    
-    "bouquet": {
-        "id": 23,
-        "url": "/bouquet",
-        "picture": "/thestonemagic/images/art-23-bouquet.jpg",
-        "caption": "Bouquet",
-        "author": "Vladimir Damyanov",
-        "description": {
-            "created": "2013", 
-            "dimensions": {"width": "75cm", "height": "75cm"},
-            "materials": ["agate", "tiger's eye", "labrador", "firestone", "onyx"]
-        }
-    },
-    
-    "fiancee": {
-        "id": 25,
-        "url": "/fiancee",
-        "picture": "/thestonemagic/images/art-25-fiancee.jpg",
-        "caption": "Fiancee",
-        "author": "Damyan Damyanov",
-        "description": {
-            "created": "2008", 
-            "dimensions": {"width": "75cm", "height": "75cm"},
-            "materials": ["amethyst", "agate", "jasper", "tiger's eye", "mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
-        }
-    },
-    
-    "music": {
-            "id": 26,
-            "url": "/music",
-            "picture": "/thestonemagic/images/art-26-music.jpg",
-            "caption": "Music",
-            "author": "Damyan Damyanov",
+            "created": "2020",
+            "width": "75cm", 
+            "height": "50cm",
+            "materials": "agate, tiger's eye, labrador, firestone, onyx",
             "description": {
                 "created": "2020", 
                 "dimensions": {"width": "75cm", "height": "50cm"},
                 "materials": ["agate", "tiger's eye", "labrador", "firestone", "onyx"]
             }
-    },
-    
-    "sailing": {
-        "id": 27,
-        "url": "/sailing",
-        "picture": "/thestonemagic/images/art-27-sailing.jpg",
-        "caption": "Sailing",
-        "author": "Damyan Damyanov",
-        "description": {
-            "created": "2018", 
-            "dimensions": {"width": "75cm", "height": "75cm"},
-            "materials": ["mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
+        },
+        {
+            "id": 22,
+            "url": "/gallery/cactus",
+            "picture": "/thestonemagic/images/art-22-cactus.jpg",
+            "gridClass": "Card w-1 h-1",
+            "caption": "Cactus",
+            "author": "Vladimir Damyanov",
+            "created": "2013",
+            "width": "75cm", 
+            "height": "75cm",
+            "materials": "agate, tiger's eye, labrador, firestone, onyx",
+            "description": {
+                "created": "2013", 
+                "dimensions": {"width": "75cm", "height": "75cm"},
+                "materials": ["agate", "tiger's eye", "labrador", "firestone", "onyx"]
+            }
+        },
+        {
+            "id": 30,
+            "url": "/gallery/unity",
+            "picture": "/thestonemagic/images/art-30-unity.jpg",
+            "gridClass": "Card w-1 h-3",
+            "caption": "Unity",
+            "author": "Vladimir Damyanov",
+            "created": "2019",
+            "width": "30cm", 
+            "height": "75cm",
+            "materials": "mountain crystal, labrador, pyryt, firestone, onyx, marble",
+            "description": {
+                "created": "2019", 
+                "dimensions": {"width": "30cm", "height": "75cm"},
+                "materials": ["mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
+            }
+        },
+        {
+            "id": 14,
+            "url": "/gallery/galaxy",
+            "picture": "/thestonemagic/images/art-14-galaxy.jpg",
+            "gridClass": "Card w-2 h-1",
+            "caption": "Galaxy",
+            "author": "Vladimir Damyanov",
+            "created": "2003",
+            "width": "50cm", 
+            "height": "75cm",
+            "materials": "agate, jasper, tiger's eye, mountain crystal, pyryt, marble",
+            "description": {
+                "created": "2003", 
+                "dimensions": {"width": "50cm", "height": "75cm"},
+                "materials": ["agate", "jasper", "tiger's eye", "mountain crystal", "pyryt", "marble"]
+            }
+        },
+        {
+            "id": 19,
+            "url": "/gallery/butterfly",
+            "picture": "/thestonemagic/images/art-19-butterfly.jpg",
+            "gridClass": "Card w-1 h-1",
+            "caption": "Butterfly",
+            "author": "Damyan Damyanov",
+            "created": "2011",
+            "width": "75cm", 
+            "height": "75cm",
+            "materials": "labrador, pyryt, firestone, onyx, marble",
+            "description": {
+                "created": "2011", 
+                "dimensions": {"width": "75cm", "height": "75cm"},
+                "materials": ["labrador", "pyryt", "firestone", "onyx", "marble"]
+            }
+        },
+        {
+            "id": 27,
+            "url": "/gallery/sailing",
+            "picture": "/thestonemagic/images/art-27-sailing.jpg",
+            "gridClass": "Card w-1 h-2",
+            "caption": "Sailing",
+            "author": "Damyan Damyanov",
+            "created": "2018",
+            "width": "75cm", 
+            "height": "75cm",
+            "materials": "mountain crystal, labrador, pyryt, firestone, onyx, marble",
+            "description": {
+                "created": "2018", 
+                "dimensions": {"width": "75cm", "height": "75cm"},
+                "materials": ["mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
+            }
+        },
+        {
+            "id": 5,
+            "url": "/gallery/delight",
+            "picture": "/thestonemagic/images/art-5-delight.jpg",
+            "gridClass": "Card w-1 h-1",
+            "caption":  "Delight",
+            "author": "Vladimir Damyanov",
+            "created": "1986",
+            "width": "75cm", 
+            "height": "75cm",
+            "materials": "amethyst, agate, jasper, tiger's eye, mountain crystal, labrador, pyryt, firestone, onyx, marble",
+            "description": {
+                "created": "1986", 
+                "dimensions": {"width": "75cm", "height": "75cm"},
+                "materials": ["amethyst", "agate", "jasper", "tiger's eye", "mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
+            }
+        },
+        {
+            "id": 31,
+            "url": "/gallery/tear",
+            "picture": "/thestonemagic/images/art-31-tear.jpg",
+            "gridClass": "Card w-1 h-2",
+            "caption":  "Tear",
+            "author": "Damyan Damyanov",
+            "created": "2015",
+            "width": "50cm", 
+            "height": "75cm",
+            "materials": "mountain crystal, labrador, pyryt, firestone, onyx, marble",
+            "description": {
+                "created": "2015", 
+                "dimensions": {"width": "50cm", "height": "75cm"},
+                "materials": ["mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
+            }
+        },
+        {
+            "id": 23,
+            "url": "/gallery/bouquet",
+            "picture": "/thestonemagic/images/art-23-bouquet.jpg",
+            "gridClass": "Card w-2 h-2",
+            "caption":  "Bouquet",
+            "author": "Vladimir Damyanov",
+            "created": "2013",
+            "width": "75cm", 
+            "height": "75cm",
+            "materials": "agate, tiger's eye, labrador, firestone, onyx",
+            "description": {
+                "created": "2013", 
+                "dimensions": {"width": "75cm", "height": "75cm"},
+                "materials": ["agate", "tiger's eye", "labrador", "firestone", "onyx"]
+            }
+        },
+        {
+            "id": 32,
+            "url": "/gallery/ocean",
+            "picture": "/thestonemagic/images/art-32-ocean.jpg",
+            "gridClass": "Card w-1 h-1",
+            "caption": "Ocean",
+            "author": "Damyan Damyanov",
+            "created": "2015",
+            "width": "50cm",
+            "height": "75cm",
+            "materials": "mountain crystal, firestone, onyx, marble",
+            "description": {
+                "created": "2015", 
+                "dimensions": {"width": "50cm", "height": "75cm"},
+                "materials": ["mountain crystal", "firestone", "onyx", "marble"]
+            }
+        },
+        {
+            "id": 33,
+            "url": "/gallery/prometheus",
+            "picture": "/thestonemagic/images/art-33-prometheus.jpg",
+            "caption": "Prometheus",
+            "author": "Vladimir Damyanov",
+            "created": "1985", 
+            "width": "75cm",
+            "height": "75cm",
+            "materials": "onyx, marble, amethyst, agate, jasper, tiger's eye",
+            "description": {
+                "created": "1986", 
+                "dimensions": {"width": "75cm", "height": "75cm"},
+                "materials": ["onyx", "marble", "amethyst", "agate", "jasper", "tiger's eye"]
+            }
         }
-    },
-    
-    "unity": {
-        "id": 30,
-        "url": "/unity",
-        "picture": "/thestonemagic/images/art-30-unity.jpg",
-        "caption": "Unity",
-        "author": "Vladimir Damyanov",
-        "description": {
-            "created": "2019", 
-            "dimensions": {"width": "30cm", "height": "75cm"},
-            "materials": ["mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
-        }
-    },
-    
-    "tear": {
-        "id": 31,
-        "url": "/tear",
-        "picture": "/thestonemagic/images/art-31-tear.jpg",
-        "caption": "Tear",
-        "author": "Damyan Damyanov",
-        "description": {
-            "created": "2015", 
-            "dimensions": {"width": "50cm", "height": "75cm"},
-            "materials": ["mountain crystal", "labrador", "pyryt", "firestone", "onyx", "marble"]
-        }
-    },
-    
-    "ocean": {
-        "id": 32,
-        "url": "/ocean",
-        "picture": "/thestonemagic/images/art-32-ocean.jpg",
-        "caption": "Ocean",
-        "author": "Damyan Damyanov",
-        "description": {
-            "created": "2015", 
-            "dimensions": {"width": "50cm", "height": "75cm"},
-            "materials": ["mountain crystal", "firestone", "onyx", "marble"]
-        }
-    },
-    
-    "prometheus": {
-        "id": 33,
-        "url": "/prometheus",
-        "picture": "/thestonemagic/images/art-33-prometheus.jpg",
-        "caption": "Prometheus",
-        "author": "Damyan Damyanov",
-        "description": {
-            "created": "2015", 
-            "dimensions": {"width": "50cm", "height": "75cm"},
-            "materials": ["labrador", "pyryt", "firestone", "onyx", "marble"]
-        }
-    }
+    ]    
 }
-
-
